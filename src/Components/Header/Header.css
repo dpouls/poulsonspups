@@ -1,0 +1,16 @@
+.header-links {
+    text-decoration: none;
+    color: #6C757D;
+    transition: 500ms;
+}
+.header-links:hover {
+    color: #2a83b6;
+
+    text-decoration: none;
+
+}
+.header-links-active {
+    color: #2a83b6;
+    font-weight: 600;
+    text-decoration: none;
+}

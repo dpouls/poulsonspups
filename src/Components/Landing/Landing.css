@@ -1,0 +1,9 @@
+.bg-puppy {
+    min-height: 300px;
+    /* object-position: bottom; */
+    width: 100%;
+    background-repeat: 'no-repeat';
+    background-size: cover;
+    background-position: center;
+    opacity: .7;
+}
